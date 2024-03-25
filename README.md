@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Md. Raihanul Haque Shuvo</h1>
 <h3 align="center">A passionate competitive programmer from Bangladesh</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">👋 Welcome to my GitHub profile! I'm Md. Raihanul Haque Shuvo,a Computer Science Engineering student passionate about exploring the fascinating world of technology and software development. Here, you'll find a collection of my projects, ranging from coding challenges to full-fledged applications. I love to delve into various programming languages and frameworks, constantly seeking to learn and improve my skills. Join me on this journey as we explore the endless possibilities of software engineering together!</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
