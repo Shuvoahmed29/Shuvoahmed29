@@ -1,4 +1,4 @@
-![logo](supun-new.png)
+![logo]([supun-new.png](https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/387076042_1472470320242606_3401169763655597578_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=fUg0vuFfauMAX9FVcf7&_nc_ht=scontent.fdac90-1.fna&oh=00_AfBHVSUmhoif2RTi7nO-0paOV-zx6SwKAkzcOfzjRwmS1A&oe=66062248))
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
