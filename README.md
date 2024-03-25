@@ -5,9 +5,7 @@
 <h1 align="center">Hi 👋, I'm Md. Raihanul Haque Shuvo</h1>
 <h3 align="center">A passionate competitive programmer from Bangladesh</h3>
 <p align="center">👋 Welcome to my GitHub profile! As a Computer Science Engineering student passionate about exploring the fascinating world of technology and software development. Here, you'll find a collection of my projects, ranging from coding challenges to full-fledged applications. I love to delve into various programming languages and frameworks, constantly seeking to learn and improve my skills. <br>🤝Join me on this journey as we explore the endless possibilities of software engineering together!</br></p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvoahmed29&label=Profile%20views&color=0e75b6&style=flat" alt="shuvoahmed29" /> </p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
