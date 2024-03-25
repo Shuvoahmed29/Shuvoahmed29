@@ -36,9 +36,9 @@
 
 - 🔭 I’m currently working on [AlgoBangla29](https://www.youtube.com/@algobangla29)
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **MongoDB, Express, React, Node etc**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Shuvoahmed29)
 
 - 💬 Ask me about **Java, Python, PHP and NodeJS**
 
