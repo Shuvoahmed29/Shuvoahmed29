@@ -1,10 +1,10 @@
-![logo](https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/387076042_1472470320242606_3401169763655597578_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=fUg0vuFfauMAX9FVcf7&_nc_ht=scontent.fdac90-1.fna&oh=00_AfBHVSUmhoif2RTi7nO-0paOV-zx6SwKAkzcOfzjRwmS1A&oe=66062248)
+![logo]()
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Md. Raihanul Haque Shuvo</h1>
 <h3 align="center">A passionate competitive programmer from Bangladesh</h3>
-<p align="center">👋 Welcome to my GitHub profile! I'm Md. Raihanul Haque Shuvo,a Computer Science Engineering student passionate about exploring the fascinating world of technology and software development. Here, you'll find a collection of my projects, ranging from coding challenges to full-fledged applications. I love to delve into various programming languages and frameworks, constantly seeking to learn and improve my skills. Join me on this journey as we explore the endless possibilities of software engineering together!</p>
+<p align="center">👋 Welcome to my GitHub profile! As a Computer Science Engineering student passionate about exploring the fascinating world of technology and software development. Here, you'll find a collection of my projects, ranging from coding challenges to full-fledged applications. I love to delve into various programming languages and frameworks, constantly seeking to learn and improve my skills. Join me on this journey as we explore the endless possibilities of software engineering together!</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
