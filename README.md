@@ -83,6 +83,10 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvoahmed29&show_icons=true&locale=en&layout=compact" alt="shuvoahmed29" /></p>
+
+
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
