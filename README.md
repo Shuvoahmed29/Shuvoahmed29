@@ -40,11 +40,9 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Shuvoahmed29)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **C,C++,Algorithm,Java,Python,Data Structure**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📫 How to reach me **raihanulhaque1170@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
