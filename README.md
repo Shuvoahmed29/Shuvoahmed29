@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shuvoahmed29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvoahmed29" height="30" width="40" /></a>
-<a href="https://fb.com/md. raihanul haque shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. raihanul haque shuvo" height="30" width="40" /></a>
+<a href="[https://fb.com/md. raihanul haque shuvo](https://www.facebook.com/Shuvo.CSE.PUST/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. raihanul haque shuvo" height="30" width="40" /></a>
 <a href="https://instagram.com/shuvo_ahmed29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuvo_ahmed29" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/algobangla29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="algobangla29" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@algobangla29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="algobangla29" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/r_shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="r_shuvo" height="30" width="40" /></a>
 </p>
 
