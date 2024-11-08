@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on [AlgoBangla29](https://www.youtube.com/@algobangla29)
 
-- 🌱 I’m currently learning **MongoDB, Express, React, Node etc**
+- 🌱 I’m currently learning **Full Stack Web Development with Python, Django & React**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Shuvoahmed29)
 
