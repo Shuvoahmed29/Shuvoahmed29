@@ -36,7 +36,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Shuvoahmed29)
 
-- 💬 Ask me about **C,C++,Algorithm,Java,Python,Data Structure**
+- 💬 Ask me about **C,C++,Algorithm,Java,Python,Data Structure,SQL**
 
 - 📫 How to reach me **raihanulhaque1170@gmail.com**
 
